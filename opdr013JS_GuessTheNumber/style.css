@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Chango&family=Montserrat);
+
+
+
+* {
+  box-sizing: border-box;
+  background-color: #8b0084;
+}
+
+body {
+  text-align: center;
+}
+
+.title {
+  font-family: Chango;
+  font-size: 60px;
+  color:rgb(251, 253, 133);
+  text-shadow: 0 0 40px #110010, 0 0 40px rgb(251, 253, 133);
+}
+
+.button {
+  background-color: rgb(251, 253, 133);
+  font-family: Chango;
+  font-size: 24px;
+  border-radius: 40px;
+  border: solid 5px #490246;
+  color: #490246;
+  padding: 10px;
+}
